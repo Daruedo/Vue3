@@ -1,5 +1,14 @@
 # project4-quiz-game
 
+### Techs
+
+Vue 3
+Axios
+Lodash
+
+npm i vue-axios
+npm i --save lodash
+
 ## Project setup
 ```
 npm install
